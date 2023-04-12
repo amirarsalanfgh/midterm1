@@ -59,6 +59,8 @@ By understanding customers  nonverbal communication preferences, hotels can bett
 When planning a trip, choosing accommodation, tourists often rely on online reviews help them make informed decisions. In recent years online reviews have become an increasingly important source of information for travelers [@ahani2019revealing][@garcia2012lexicon]. Nonverbal communication is also key in the hospitality industry as it can greatly impact tourists satisfaction and overall experience [@islam2021nonverbal]. User-generated content in online travel communities can a significantly influence tourists' decision-making process as noted by Wang and Fesenmaier [@wang2004towards]. In order to develop sustainable tourism strategies, it s crucial to take into account tourists  preferences and opinions, as highlighted by Tusell et al. [@tusell2021improvement]. Additionally, it's worth noting that the book "Nonverbal Communication" by Burgoon, Manusov, and Guerrero [@burgoon2016nonverbal] provides a comprehensive overview of the topic, which may be useful for further research.
 .
 
+When analyzing the hotel customer dataset we have different ways to gain insights. We can use descriptive statistics summarize the data and spot patterns inferential statistics to make broader conclusions by comparing different groups or variables data visualization to visualize  data and identify trends, and machine learning to predict future behavior. Using a combination methods can provide  thorough understanding of the data.
+
 
 
 
